@@ -1,0 +1,15 @@
+{
+    "token": "",
+    "owner": "",
+    "guild_id": "",
+    "capmonster_key": "",
+    "server_nick": "best",
+    "change_server_nick": true,
+    "proxyless": true,
+    "field_name_invite": "invite",
+    "order_logs": "",
+    "failed_boosts": "",
+    "boosts_logs": "",
+    "activity": "nob",
+    "license_key": "ANVILBOOST"
+}
